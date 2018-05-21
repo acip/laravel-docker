@@ -1,0 +1,6 @@
+/var/www/app/*
+/var/www/public/*
+/var/www/storage/*
+/var/www/routes/*
+/var/www/config/*
+/var/www/resources/*
